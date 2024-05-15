@@ -213,3 +213,7 @@ Orientação a objetos:
 - [ ] Versionamento de código com Git e Github.
   
    Inglês técnico.
+
+### Situação.
+
+[X] Aprovado nas cotas. 
