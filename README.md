@@ -1,5 +1,4 @@
-# concurso-ministerio-publico-amazonas-2023
-Concurso do Ministério Público do Amazonas
+# Concurso do Ministério Público do Amazonas
 
 AGENTE TÉCNICO — ANALISTA DE SISTEMAS
 I. Gestão dos sistemas utilizados pelo Ministério Público do Estado do Amazonas, sejam eles transacionais, especialistas, gerenciais ou de
